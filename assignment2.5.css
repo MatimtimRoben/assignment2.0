@@ -1,0 +1,69 @@
+body {
+    text-align: center;
+    background-image: url("bg.png");
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1 {
+    font-size: 5rem;
+    color: #283149;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #debc7c;
+}
+p {
+    color: #ff0000;
+    font-family: "Arvo", cursive;
+}
+.l {
+    background-image: url("https://i.pinimg.com/originals/f0/26/2e/f0262e4ea3d1ed807e226ca321a9153f.png");
+}
+.n {
+    background-image: url("https://i.pinimg.com/originals/fa/f5/69/faf56928a20e446bd3d129d47dc4dfe5.png");
+}
+.i {
+    background-image: url("https://img00.deviantart.net/7bf3/i/2015/115/b/5/chibi_ichigo_bankai_2_by_ao2306-d505myn.png");
+}
+.g {
+    background-image: url("https://i.pinimg.com/originals/15/4a/69/154a69719a53a513e9f2397b3bdb16ec.png");
+}
+.t {
+    background-image: url("https://s1.stickers.cloud/packs/bae69f3d-4536-48f0-8d73-09429991908c/png/c75f2236-3189-487d-864b-c92c24135cb6.png");
+}
+.a {
+    background-image: url("https://clipground.com/images/black-clover-png-10.png");
+}
+.anime {
+    background-size: cover;
+    background-color: transparent;
+    border-radius: 25px;
+    color: transparent;
+    width: 500px;
+    height: 500px;
+    margin: 15px;
+}
+.pressed1 {
+    background-image: url("luffy.png");
+    box-shadow: 10px 10px 40px rgba(232, 228, 13, 0.796);
+    /* width: 70%;
+    height: 900px; */
+}
+.pressed2 {
+    background-image: url("naruto.png");
+    box-shadow: 10px 10px 40px rgba(232, 228, 13, 0.796);
+}
+.pressed3 {
+    background-image: url("ichigo.png");
+    box-shadow: 10px 10px 40px rgba(232, 228, 13, 0.796);
+}
+.pressed4 {
+    background-image: url("goku.png");
+    box-shadow: 10px 10px 40px rgba(232, 228, 13, 0.796);
+}
+.pressed5 {
+    background-image: url("tanjiro.png");
+    box-shadow: 10px 10px 40px rgba(232, 228, 13, 0.796);
+}
+.pressed6 {
+    background-image: url("asta.png");
+    box-shadow: 10px 10px 40px rgba(232, 228, 13, 0.796);
+}
